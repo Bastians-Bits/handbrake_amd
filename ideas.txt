@@ -1,0 +1,5 @@
+Arguments:
+- Input Folder
+- Output Folder
+- Port Web UI (no mapping, the port with which the service starts)
+- Port VNC (no mapping, the port with which the service starts)
